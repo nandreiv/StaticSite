@@ -1,0 +1,65 @@
+body {
+    background: #fff;
+    margin: 0;
+}
+
+.navbar {
+    background: #fff;
+    padding: 10px;
+    text-align: right;
+    padding-bottom: 75px;
+}
+
+.navbar .logo {
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.navbar .links {
+    margin-top: 15px;
+    float: right;
+}
+
+.navbar .links a {
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+    margin-right: 30px;
+}
+
+.navbar .links a:hover {
+    text-decoration: underline;
+    text-decoration-color:  #004dc9;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color:#fff;
+    text-align: center;
+    border-top: 2px solid #333;
+    font-family: Montserrat, sans-serif;
+ }
+
+#welcome {
+    font-family:Sansita Swashed, cursive;
+    font-size: 48px;
+    text-align: center;
+    color: #333;
+}
+
+.mainDiv {
+    margin: 5% 15%;
+    text-align: justify;
+}
+
+.mainDiv p {
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
