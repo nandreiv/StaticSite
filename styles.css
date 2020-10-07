@@ -63,3 +63,13 @@ body {
     font-weight: bold;
     font-size: 30px;
 }
+
+.mainImg {
+    width: 85%;
+    margin: auto;
+}
+
+.mainImg img {
+    width: 100%;
+    height: auto;
+}
