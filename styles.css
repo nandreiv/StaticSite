@@ -15,8 +15,8 @@ body {
 }
 
 .navbar .logo {
-    margin-top: 10px;
-    margin-left: 10px;
+    margin-top: 0;
+    margin-left: 0;
     float: left;
 }
 
